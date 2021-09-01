@@ -8,7 +8,7 @@ A Intelligent Voice Chat Music Bot
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/ccc73ef10fac0d99bb713.jpg">
+  <img src="https://telegra.ph/file/5633b57920fc1ca8c5f10.jpg">
 </p>
 
 ## 🎉 For Deploy
