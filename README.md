@@ -1,7 +1,7 @@
 # MusicTamilBot
 A Intelligent Voice Chat Music Bot
 
-<h1 align="centre">MUSICTAMIL V5.0 🎵</h1>
+<h1 align="centre">MUSICTAMIL V5.0</h1>
 
 ### உங்கள் குழு மற்றும் வாய்ஸ் சாட்டில் பாடக்கூடிய போட்
 #### இயக்கம்: https://github.com/MarshalX/tgcalls
@@ -89,7 +89,7 @@ If you donlt like to play in linked channel:
 ### Credits
 - https://github.com/rojserbest
 
-## Copyright & License 👮
+## Copyright & License 
 
  - Copyright (C) 2020 - 2021 by [ImSoulQueen](github.com/MusicTamiBot)
  - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/ImSoulQueen/MusicTamilBot/blob/main/LICENSE)
