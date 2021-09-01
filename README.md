@@ -19,7 +19,7 @@ A Intelligent Voice Chat Music Bot
 
 Get your string session from here:
 
-[![Run on Repl.it](https://replit.com/@ImSoulQueen/GenerateStringSession)
+[![Run on Repl.it](https://replit.com/@ImSoulQueen/GenerateStringSession#main.py)
 
 ### Commands for Group 🎉
 #### For all in group:
