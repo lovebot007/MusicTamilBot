@@ -21,7 +21,7 @@ Get your string session from here:
 
 [![Run on Repl.it](https://replit.com/@ImSoulQueen/GenerateStringSession/)
 
-### Commands for Group 👩🏻‍💻
+### Commands for Group 🎉
 #### For all in group:
 
 - `/play <song name>` - play song you requested
@@ -48,7 +48,7 @@ Get your string session from here:
 - `/admincache` - Refresh admin list
 - `/musicplayer [on/off]` - Enable/Disable Music Player
 
-### Commands for Channel Music Play 👩🏻‍💻
+### Commands for Channel Music Play 🎉
 For linked group admins only:
 - `/cplay <song name>` - play song you requested
 - `/cplay <reply to link>` - play replied youtube link
@@ -72,7 +72,7 @@ If you donlt like to play in linked channel:
  4. add helper to channel
  5. Simply send commands in your group.
 
-### Commands for Sudo Users 👩🏻‍💻
+### Commands for Sudo Users 🎉
 - `/userbotleaveall` - remove assistant from all chats
 - `/gcast <reply to message>` - globally brodcast replied message to all chats
 - `/pmpermit [on/off]` - enable/disable pmpermit message
@@ -95,4 +95,4 @@ If you donlt like to play in linked channel:
  - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/ImSoulQueen/MusicTamilBot/blob/main/LICENSE)
     
    
-## Made by 👩🏻‍💻 [ImSoulQueen](https://github.com/ImSoulQueen)
+## Made by 🎉 [ImSoulQueen](https://github.com/ImSoulQueen)
