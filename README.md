@@ -15,7 +15,7 @@ A Intelligent Voice Chat Music Bot
 
 ### ❤️ Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyXMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImSoulQueen/MusicTamilBot)
 
 Get your string session from here:
 
