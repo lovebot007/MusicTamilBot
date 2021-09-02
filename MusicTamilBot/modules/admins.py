@@ -28,7 +28,7 @@ from MusicTamilBot.helpers.decorators import errors
 from MusicTamilBot.helpers.filters import command
 from MusicTamilBot.helpers.filters import other_filters
 from MusicTamilBot.services.callsmusic import callsmusic
-from MusicTamilBotl.services.queues import queues
+from MusicTamilBot.services.queues import queues
 
 
 @Client.on_message(filters.command("adminreset"))
