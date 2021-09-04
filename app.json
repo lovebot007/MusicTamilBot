@@ -34,12 +34,12 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "DaisySupport_Official"
+      "value": "OurBotzSupport"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
       "required": false,
-      "value": "DaisyXMusic v5"
+      "value": "MusicTamilBot v5"
     },
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant Username without @.",
@@ -58,7 +58,7 @@
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "DaisyXupdates"
+      "value": "OurBotz"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
